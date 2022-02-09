@@ -1,6 +1,6 @@
 {
-	"author": "Ryan Garst",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ryan Garst",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
